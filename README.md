@@ -5,3 +5,5 @@ This is your README. READMEs are where you can communicate what your project is 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
 Loven Saini
 made this change.
+configured git and fixed all issues
+git now working fine
